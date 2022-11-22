@@ -116,7 +116,7 @@ section {
 .head-content__product {
     width: 50%;
     height: 300px;
-    background-image: url(img/prod.png);
+    background-image: url(prod.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -145,7 +145,7 @@ section {
 .compound-content__product {
     height: 300px;
     width: 33.33%;
-    background-image: url(img/prod.png);
+    background-image: url(prod.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -168,7 +168,7 @@ section {
     width: 100px;
     margin-bottom: 20px;
     border-radius: 25px;
-    background-image: url(img/ico01-1.png);
+    background-image: url(ico01-1.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -212,7 +212,7 @@ section {
     height: 150px;
     margin: auto;
     margin-bottom: 15px;
-    background-image: url(img/photo-user.png);
+    background-image: url(photo-user.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -245,7 +245,7 @@ section {
     top: 20px;
     width: 20px;
     height: 20px;
-    background-image: url(img/quote.png);
+    background-image: url(quote.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -262,7 +262,7 @@ section {
 .promo-content__product {
     width: 50%;
     height: 400px;
-    background-image: url(img/men.PNG);
+    background-image: url(men.PNG);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -429,7 +429,7 @@ marker:focus path {
 .order-content__photo {
     height: 300px;
     width: 50%;
-    background-image: url(img/prod.png);
+    background-image: url(prod.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
